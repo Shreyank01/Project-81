@@ -1,0 +1,22 @@
+.body_backgorund {
+    background-image: url("https://thumbs.dreamstime.com/b/flatlay-various-stationery-art-supplies-white-wooden-background-flatlay-various-stationery-art-supplies-white-131692831.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+  
+      background-color: white; 
+      border-style:ridge;
+  }
+  span
+  {
+      font-size: 20px;
+  }
+  
